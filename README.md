@@ -22,9 +22,9 @@ This method works because we expect the pixel intensity across R,G,B channels to
 
 
 ## Toy Examples
-<img src="output/Balloon.png" width="200" height="400" />
-<img src="output/Tree.png" width="200" height="400" />
-<img src="output/puppy.png" width="200" height="400" />
+<img src="output/Balloon.png"/>
+<img src="output/Tree.png" />
+<img src="output/puppy.png" />
 
 
 ## Sample Input and Output Image
