@@ -25,5 +25,5 @@ Input:<br>
 <img src="data/prokudin-gorskii/00153v.jpg" width="200" height="400" />
 
 Output:<br>
-<img src="output/00153v-aligned.png" width="200", height="400">
+<img src="output/00153v-aligned.png">
 
