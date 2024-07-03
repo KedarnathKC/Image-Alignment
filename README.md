@@ -19,6 +19,14 @@ One way to align the plates is to exhaustively search over a window of possible 
 score each one using some image matching metric, and take the displacement with the best score.
 This method works because we expect the pixel intensity across R,G,B channels to be correlated.
 
+
+
+## Toy Examples
+<img src="output/Balloon.png" width="200" height="400" />
+<img src="output/Tree.png" width="200" height="400" />
+<img src="output/puppy.png" width="200" height="400" />
+
+
 ## Sample Input and Output Image
 
 Input:<br>
@@ -26,4 +34,3 @@ Input:<br>
 
 Output:<br>
 <img src="output/00153v-aligned.png">
-
